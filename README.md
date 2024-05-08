@@ -49,6 +49,12 @@ Dowload the following datasets and pu them in the `dataset` folder.
 python error_detection.py [path to the dataset]
 ```
 
+or
+
+```shell
+spark-submit --conf spark.pyspark.python=[path to the python environment] error_detection.py [path to the dataset]
+```
+
 ## Team Member
 
 Xinsheng Zhu
