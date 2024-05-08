@@ -31,7 +31,7 @@ pip install ydata_profiling
 
 ### Download Datasets for Testing
 
-Dowload the following datasets and pu them in the `dataset` folder.
+Dowload the following datasets and put them in the `dataset` folder.
 
 [Construction Demolition Registrants](https://data.cityofnewyork.us/City-Government/Construction-Demolition-Registrants/cspg-yi7g)
 
