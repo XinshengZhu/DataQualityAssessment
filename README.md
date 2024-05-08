@@ -42,6 +42,12 @@ Dowload the following datasets and pu them in the `dataset` folder.
 
 [2010 - 2016 School Safety Report](https://data.cityofnewyork.us/Education/2010-2016-School-Safety-Report/qybk-bjjc)
 
+### Run the Script
+
+```shell
+python error_detection.py [path to the dataset]
+```
+
 ## Team Member
 
 Xinsheng Zhu
