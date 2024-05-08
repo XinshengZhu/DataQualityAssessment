@@ -12,7 +12,9 @@ We also use precision and recall metrics to evaluate our approach and explore th
 
 ![Pipeline](/img/flowchart.drawio.png)
 
-## Quickstart
+## Quickstart on Local Mac Devices
+
+*If anything is not running as expected, please contact us.*
 
 ### Install Apache-Spark
 
@@ -55,7 +57,7 @@ or
 spark-submit --conf spark.pyspark.python=[path to the python environment] error_detection.py [path to the dataset]
 ```
 
-## Team Member
+## Team Member--Exclamation
 
 Xinsheng Zhu
 
