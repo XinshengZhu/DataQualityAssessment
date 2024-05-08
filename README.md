@@ -25,6 +25,7 @@ brew install apache-spark
 ```shell
 pip install pyspark
 pip install jellyfish
+pip install pandas
 pip install ydata_profiling
 ```
 
